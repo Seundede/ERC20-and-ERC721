@@ -1,18 +1,7 @@
-REMIX EXAMPLE PROJECT
+## IPFS links - ipfs://bafkreidedkbmemislybjzadr2sc7alfmtkktm4cmvpm6axywnj3bfhxcsq , ipfs://bafkreig7ottqpmhlld2wtdrxe4mxrecq67q2qo3v365bgxdkgzdzgqaxpa
 
-Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
-It contains 3 directories:
+## ERC20 contract address- 0x10B524aa7D141FC12f868BC364CC6e4e9B5F1f9d
+## ERC20 testnet address - https://mumbai.polygonscan.com/address/0x10B524aa7D141FC12f868BC364CC6e4e9B5F1f9d#code
 
-1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
-2. 'scripts': Holds two scripts to deploy a contract. It is explained below.
-3. 'tests': Contains one test file for 'Ballot' contract with unit tests in Solidity.
-
-SCRIPTS
-
-The 'scripts' folder contains example async/await scripts for deploying the 'Storage' contract.
-For the deployment of any other contract, 'contractName' and 'constructorArgs' should be updated (along with other code if required). 
-Scripts have full access to the web3.js and ethers.js libraries.
-
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-
-Output from script will appear in remix terminal.
+## ERC721 contract address - 0xD593Ab704D056bb5a0f7Ed2e1F380fA75153F351
+## ERC 721 testnet address - https://mumbai.polygonscan.com/address/0xD593Ab704D056bb5a0f7Ed2e1F380fA75153F351#code
